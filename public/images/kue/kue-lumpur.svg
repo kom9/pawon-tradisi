@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#e8f5e9"/>
+  <circle cx="200" cy="145" r="78" fill="#dcedc8"/>
+  <circle cx="170" cy="125" r="26" fill="#aed581"/>
+  <circle cx="232" cy="165" r="19" fill="#558b2f"/>
+  <circle cx="200" cy="145" r="11" fill="#aed581"/>
+  <text x="200" y="268" font-family="Georgia, serif" font-size="19" fill="#1b4332" text-anchor="middle" font-style="italic">Kue Lumpur Pandan</text>
+</svg>

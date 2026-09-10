@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f4efe6"/>
+  <rect x="60" y="70" width="280" height="160" rx="12" fill="#e6dec9"/>
+  <rect x="80" y="90" width="240" height="120" rx="8" fill="#fdfbf7"/>
+  <path d="M100 180 Q140 120 180 170 T 260 150 T 320 160" stroke="#b45309" stroke-width="4" fill="none"/>
+  <circle cx="200" cy="120" r="14" fill="#d97706"/>
+  <text x="200" y="260" font-family="serif" font-size="18" fill="#783300" text-anchor="middle" font-style="italic">Cerita Rasa Nusantara</text>
+</svg>
